@@ -1,6 +1,6 @@
 # myremote
 
-This wa sused for Git training
+This was used for Git training
 
 * point 1
 * point 2
